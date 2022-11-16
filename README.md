@@ -1,9 +1,10 @@
 # SI-GuidedProject-336927-1665730782
 Trip Based Modeling of Fuel Consumption in Modern Fleet Vehicles Using IBM Watson
 
-# Team Number      : 8 
-# College          : VAAGDEVI ENGINEERING COLLEGE , WARANGAL , TELANGANA
+# Team Number      : 8
 # Opted Technology : Machine Learning
+# College          : VAAGDEVI ENGINEERING COLLEGE , WARANGAL , TELANGANA
+
 ##Team members  
 
 ### UPPULA THARUN              (19UK1A05G8)
